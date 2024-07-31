@@ -13,4 +13,5 @@ Involved strategy for applying the rules of the actual game in a smart and effic
 Links to more information:
 
 [1commit.pdf](https://github.com/user-attachments/files/16445277/FP2324P1.1.pdf)
-[2commit_v4.pdf](https://github.com/user-attachments/files/16445278/FP2023P2_v4.pdf)
+
+[2commit.pdf](https://github.com/user-attachments/files/16445278/FP2023P2_v4.pdf)
