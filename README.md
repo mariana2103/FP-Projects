@@ -1,4 +1,4 @@
-# FP-Projects
+[FP2023P2_v4.pdf](https://github.com/user-attachments/files/16445269/FP2023P2_v4.pdf)# FP-Projects
 Python projects for Programming Fundamentals, a 1º year class of Computer Science and Engineering Student @ Instituto Superior Técnico.
 
 This project consisted of writing a program in Python that allows you to play Go1. For this purpose, we had to define a set of abstract data types that should be used to manipulate information necessary during the game. 
@@ -9,3 +9,7 @@ Was a base code so that we got used to Python programming and consisted of devel
 
 The 2º Project commit:
 Involved strategy for applying the rules of the actual game in a smart and efficient way.
+
+Links to more information:
+https://github.com/user-attachments/files/16445270/FP2324P1.pdf
+https://github.com/user-attachments/files/16445271/FP2023P2_v4.pdf
